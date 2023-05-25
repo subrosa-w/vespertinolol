@@ -4,3 +4,4 @@ print(mensaje) #clear en la terminal para eliminar todo la terminal
 git clone
 git status
 '''
+print("otro mensaje")
